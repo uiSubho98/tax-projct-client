@@ -1,0 +1,23 @@
+.table-container{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    grid-gap: 80px;
+    width: 100%;
+    margin-left: 0px;
+    margin-top: 80px;
+}
+.table-box{
+   
+    padding-right: 20px;
+    padding-left: 20px;
+    box-shadow:1px 1px 8px 2px;
+    border-radius: 12px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin: 0 auto;
+    width: 600px;
+
+}
+table{
+    width: 100%;
+}
